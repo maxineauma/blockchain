@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.17.2",
+    "json-keys-sort": "^2.1.0",
+    "utf8": "^3.0.0"
+  }
+}
